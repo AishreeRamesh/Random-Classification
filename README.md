@@ -20,9 +20,9 @@ To write a python program to perform random classification.
 ## PROGRAM:
 ```python
 
-Program to implement random classification.
-Developed by   : Aishree Ramesh
-Register Number : 212220230003
+#Program to implement random classification.
+#Developed by   : Aishree Ramesh
+#Register Number : 212220230003
 
 import matplotlib.pyplot as plt
 from sklearn import datasets
