@@ -1,4 +1,6 @@
-# RANDOM CLASSIFICATION
+### EX NO:01
+### DATE:
+# <p align="center">RANDOM CLASSIFICATION<p/>
 ## AIM:
 To write a python program to perform random classification.
 
@@ -23,6 +25,7 @@ To write a python program to perform random classification.
 #Program to implement random classification.
 #Developed by   : Aishree Ramesh
 #Register Number : 212220230003
+
 
 import matplotlib.pyplot as plt
 from sklearn import datasets
